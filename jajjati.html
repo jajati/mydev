@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Select Marks</title>
+
+    <script type="text/javascript"
+        src="http://public.tableau.com/javascripts/api/tableau-2.js"></script>
+
+    <script type="text/javascript">
+        var viz, sheet;
+
+        function initViz() {
+            var containerDiv = document.getElementById("vizContainer"),
+                              url = "http://mbi-tab.unilever.com/t/PR_Supply_Chain_Analytics/views/VoicePoT-CustomerServiceDashboard/D00-CSLandingPage?:embed=y";
+           debugger;
+            var options = {
+
+                hideTabs: true,
+                hideToolbar: true,
+                onFirstInteractive: function () {
+                                     },
+                            };
+           // document.getElementById("iframe").src = url;
+            viz = new tableau.Viz(containerDiv, url, options);
+        }
+
+        
+    </script>
+</head>
+
+<body onload="initViz();">
+   <div id="vizContainer" style="width: 1024px; height: 800px;">
+       <!--   <iframe id="iframe" width="100%" height="500px" style="float: left; background-color: white"></iframe> -->
+    </div>
+    
+</body>
+
+</html>
