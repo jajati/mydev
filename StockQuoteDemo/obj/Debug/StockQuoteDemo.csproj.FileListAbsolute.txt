@@ -1,0 +1,23 @@
+C:\Users\USer\Documents\Visual Studio 2013\Jajati\CallingWcfUsingJqueryAjax\StockQuoteDemo\StockQuoteDemo\bin\Debug\StockQuoteDemo.exe
+C:\Users\USer\Documents\Visual Studio 2013\Jajati\CallingWcfUsingJqueryAjax\StockQuoteDemo\StockQuoteDemo\bin\Debug\StockQuoteDemo.pdb
+C:\Users\USer\Documents\Visual Studio 2013\Jajati\CallingWcfUsingJqueryAjax\StockQuoteDemo\StockQuoteDemo\obj\Debug\StockQuoteDemo.exe
+C:\Users\USer\Documents\Visual Studio 2013\Jajati\CallingWcfUsingJqueryAjax\StockQuoteDemo\StockQuoteDemo\obj\Debug\StockQuoteDemo.pdb
+C:\Users\USer\Documents\Visual Studio 2013\Jajati\CallingWcfUsingJqueryAjax\StockQuoteDemo\StockQuoteDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USer\Documents\Visual Studio 2013\Jajati\CallingWcfUsingJqueryAjax\StockQuoteDemo\StockQuoteDemo\bin\Debug\System.Json.dll
+C:\Users\USer\Documents\Visual Studio 2013\Jajati\CallingWcfUsingJqueryAjax\StockQuoteDemo\StockQuoteDemo\bin\Debug\System.Json.xml
+C:\Users\USer\Documents\Visual Studio 2013\Jajati\CallingWcfUsingJqueryAjax\StockQuoteDemo\StockQuoteDemo\obj\Debug\StockQuoteDemo.csprojResolveAssemblyReference.cache
+\\CSPL-10-PC\Users\Public\Jajati\ExternalUse\StockQuoteDemo\StockQuoteDemo\obj\Debug\StockQuoteDemo.exe
+\\CSPL-10-PC\Users\Public\Jajati\ExternalUse\StockQuoteDemo\StockQuoteDemo\obj\Debug\StockQuoteDemo.pdb
+\\CSPL-10-PC\Users\Public\Jajati\ExternalUse\StockQuoteDemo\StockQuoteDemo\bin\Debug\StockQuoteDemo.exe
+\\CSPL-10-PC\Users\Public\Jajati\ExternalUse\StockQuoteDemo\StockQuoteDemo\bin\Debug\StockQuoteDemo.pdb
+\\CSPL-10-PC\Users\Public\Jajati\ExternalUse\StockQuoteDemo\StockQuoteDemo\bin\Debug\Newtonsoft.Json.dll
+\\CSPL-10-PC\Users\Public\Jajati\ExternalUse\StockQuoteDemo\StockQuoteDemo\bin\Debug\System.Json.dll
+\\CSPL-10-PC\Users\Public\Jajati\ExternalUse\StockQuoteDemo\StockQuoteDemo\bin\Debug\System.Json.xml
+\\CSPL-10-PC\Users\Public\Jajati\ExternalUse\StockQuoteDemo\StockQuoteDemo\obj\Debug\StockQuoteDemo.csprojResolveAssemblyReference.cache
+D:\JajatiData23rdNov2016\E\Edrive\CSPL_10 Backup\Jajati\ExternalUse\StockQuoteDemo\StockQuoteDemo\obj\Debug\StockQuoteDemo.exe
+D:\JajatiData23rdNov2016\E\Edrive\CSPL_10 Backup\Jajati\ExternalUse\StockQuoteDemo\StockQuoteDemo\obj\Debug\StockQuoteDemo.pdb
+D:\JajatiData23rdNov2016\E\Edrive\CSPL_10 Backup\Jajati\ExternalUse\StockQuoteDemo\StockQuoteDemo\bin\Debug\StockQuoteDemo.exe
+D:\JajatiData23rdNov2016\E\Edrive\CSPL_10 Backup\Jajati\ExternalUse\StockQuoteDemo\StockQuoteDemo\bin\Debug\StockQuoteDemo.pdb
+D:\JajatiData23rdNov2016\E\Edrive\CSPL_10 Backup\Jajati\ExternalUse\StockQuoteDemo\StockQuoteDemo\bin\Debug\System.Json.dll
+D:\JajatiData23rdNov2016\E\Edrive\CSPL_10 Backup\Jajati\ExternalUse\StockQuoteDemo\StockQuoteDemo\bin\Debug\System.Json.xml
+D:\JajatiData23rdNov2016\E\Edrive\CSPL_10 Backup\Jajati\ExternalUse\StockQuoteDemo\StockQuoteDemo\obj\Debug\StockQuoteDemo.csprojResolveAssemblyReference.cache
